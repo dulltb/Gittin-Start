@@ -30,7 +30,7 @@ Landa’s forehead, proclaiming that this one might just be his masterpiece.
 
 ```
 {
-  System.out.println("TitleL Inglorious Basterds\nYear: 2009");
+  System.out.println("Title: Inglorious Basterds\nYear: 2009");
 }
 ```
 ![Movie Poster](Inglorious_Basterds.jpg)
