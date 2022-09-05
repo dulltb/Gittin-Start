@@ -1,4 +1,4 @@
-﻿#Movie
+﻿# Movie
 
 **Inglourious Basterds** begins in 1941. Shosanna, a jewish girl in **France**, hides beneath the floor of a farmhouse while SS colonel Hans Landa
 interrogates the farmer for the presence of hidden jews in the home. When they are found, Shosanna flees while the rest are gunned down.
@@ -28,11 +28,11 @@ on the Nazis as the try to escape the fire. As the fire burns, a bomb the *Baste
 Finally, as Landa and Raine reach allied territory, Banda honors the agreement with Landa for immunity, but only after Raine carves a swastika into
 Landa’s forehead, proclaiming that this one might just be his masterpiece.
 
-`public Movie{
-	public static void main(String[] args){
-		System.out.println(“Title: Inglorious Basterds\nYear: 2009”);
-       }
-}`
+```
+{
+  System.out.println("Title: Inglorious Basterds\nYear: 2009");
+}
+```
 ![Movie Poster](Inglorious_Basterds.jpg)
 
 [Inglorious Basterds Plot](https://www.imdb.com/title/tt0361748/plotsummary)
